@@ -1,7 +1,7 @@
 # Danilo O. Pinheiro 👋
 👯 Estou procurando colaborar...
 
-## Meu [Portfólio]("https://dop-s.github.io/")
+## Meu [Portfólio](https://dop-s.github.io/)
 
 <!--
 **DaniloOPinheiro/DaniloOPinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
