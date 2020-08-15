@@ -3,6 +3,8 @@
 
 ## Meu [Portfólio](https://dop-s.github.io/)
 
+## My [Portfolio](https://dop-s.github.io/index-en.html)
+
 <!--
 **DaniloOPinheiro/DaniloOPinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
