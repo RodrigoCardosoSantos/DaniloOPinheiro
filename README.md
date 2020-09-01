@@ -1,6 +1,10 @@
 # Danilo O. Pinheiro 👋
 👯 Estou procurando colaborar...
 
+### Outros Repositósiros :
+  [GitHub - Educacional](https://github.com/DaniloOP1381521)
+  [GitHub - Option 2](https://github.com/DanilloPro)
+
 <!--
 ## Meu [Portfólio](https://dop-s.github.io/)
 
