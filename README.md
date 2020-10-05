@@ -13,8 +13,8 @@
   <br>
 
 [![Danilo O. Pinheiro stats](https://github-readme-stats.vercel.app/api?username=DaniloOPinheiro&show_icons=true&theme=radical)](https://github.com/DaniloOPinheiro)
-[![Danilo O. Pinheiro Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/DaniloOPinheiro)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Danilo O. Pinheiro Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloOPinheiro&layout=compact&theme=radical)](https://github.com/DaniloOPinheiro)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DaniloOPinheiro)](https://github.com/DaniloOPinheiro)
 
 <!--
 ## Meu [Portfólio](https://dop-s.github.io/)
