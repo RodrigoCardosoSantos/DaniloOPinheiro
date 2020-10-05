@@ -13,7 +13,7 @@
   <br>
 
 [![Danilo O. Pinheiro stats](https://github-readme-stats.vercel.app/api?username=DaniloOPinheiro&show_icons=true&theme=radical)](https://github.com/DaniloOPinheiro)
-[![Danilo O. Pinheiro Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=DaniloOPinheiro&layout=compact&theme=radical)](https://github.com/DaniloOPinheiro)
+[![Danilo O. Pinheiro Langs](https://github-readme-stats.vercel.app/api/wakatime?username=DaniloOPinheiro&layout=compact&theme=radical)](https://github.com/DaniloOPinheiro)
 
 <!--
 ## Meu [Portfólio](https://dop-s.github.io/)
