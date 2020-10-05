@@ -14,7 +14,7 @@
   <br>
 
 [![Danilo O. Pinheiro stats](https://github-readme-stats.vercel.app/api?username=DaniloOPinheiro&show_icons=true&theme=radical)](https://github.com/DaniloOPinheiro)
-[![Danilo O. Pinheiro Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloOPinheiro&layout=compact&theme=radical&langs_count=10)](https://github.com/DaniloOPinheiro)
+[![Danilo O. Pinheiro Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloOPinheiro&layout=compact&theme=radical&langs_count=20)](https://github.com/DaniloOPinheiro)
 
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DaniloOPinheiro)](https://github.com/DaniloOPinheiro)
