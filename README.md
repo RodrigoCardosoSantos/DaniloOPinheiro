@@ -1,6 +1,8 @@
 # Danilo O. Pinheiro 👋
 👯 Estou procurando colaborar...
 
+Starting my career as a developer in mid-2018, until then I was able to continue, and specialize as FullStack, but I realized that I had to continue within the scope of BackEnd. Currently I work as a Software Engineer at Avanade Brasil.
+
 ### Outros Repositósiros :
   
   * [GitHub - Educacional](https://github.com/DaniloOP1381521)<br>
