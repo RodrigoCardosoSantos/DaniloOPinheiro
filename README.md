@@ -1,6 +1,4 @@
-# Danilo O. Pinheiro 👋
-
-<!-- 👯 Estou procurando colaborar...
+# Danilo O. Pinheiro
 
 I started my career as a developer in mid-2018, until then I managed to continue, and specialize as FullStack, but I realized that I had to continue within the scope of BackEnd. I currently work as a Software Engineer at Avanade Brasil. 
 
@@ -10,6 +8,7 @@ I started my career as a developer in mid-2018, until then I managed to continue
   * [GitHub - Version 2](https://github.com/DanilloPro)
 
 <!--
+👯 Estou procurando colaborar...
 ### Meu [Portfólio](https://dop-s.github.io/)
 <!--
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raziel-rodrigues-2b32b5140/)
