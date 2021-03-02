@@ -2,7 +2,7 @@
 
 I started my career as a developer in mid-2018, until then I managed to continue, and specialize as FullStack, but I realized that I had to continue within the scope of BackEnd. I currently work as a Software Engineer at Avanade Brasil. 
 
-### Outros Repositósiros :
+### Repositósiros:
   
   * [GitHub - Educacional](https://github.com/DaniloOP1381521)<br>
   * [GitHub - Version 2](https://github.com/DanilloPro)
