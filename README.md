@@ -6,7 +6,7 @@ I started my career as a developer in mid-2018, until then I managed to continue
 ### Outros Repositósiros :
   
   * [GitHub - Educacional](https://github.com/DaniloOP1381521)<br>
-  * [GitHub - Option 2](https://github.com/DanilloPro)
+  * [GitHub - Version 2](https://github.com/DanilloPro)
 
 <!--
 ### Meu [Portfólio](https://dop-s.github.io/)
