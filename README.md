@@ -6,7 +6,7 @@ I started my career as a developer in mid-2018, until then I managed to continue
 
 Comecei minha carreira como desenvolvedor em meados de 2018, até então consegui continuar, e me especializar como FullStack, mas percebi que tinha que continuar no âmbito do BackEnd. Atualmente trabalho como Engenheiro de Software na Avanade Brasil.
 
-### Repositósiros:
+### Repositórios Evidentes:
   
   * [GitHub - Educacional](https://github.com/DaniloOP1381521)<br>
   * [GitHub - Version 2](https://github.com/DanilloPro)
