@@ -1,4 +1,4 @@
-# Danilo O. Pinheiro
+![WhatsApp Image 2021-03-02 at 2 11 44 PM](https://user-images.githubusercontent.com/52793184/109911574-1800c700-7c89-11eb-9486-c7ed28ea497e.jpeg)
 
 I started my career as a developer in mid-2018, until then I managed to continue, and specialize as FullStack, but I realized that I had to continue within the scope of BackEnd. I currently work as a Software Engineer at Avanade Brasil. 
 
