@@ -1,21 +1,16 @@
+![Screenshot_2021-03-08 (3) WhatsApp](https://user-images.githubusercontent.com/52793184/110406067-6256bf00-8060-11eb-87c4-f2b45eccf7bd.png)
+
+<!--
 ![WhatsApp Image 2021-03-02 at 2 11 44 PM](https://user-images.githubusercontent.com/52793184/109911574-1800c700-7c89-11eb-9486-c7ed28ea497e.jpeg)
-
 I started my career as a developer in mid-2018, until then I managed to continue, and specialize as FullStack, but I realized that I had to continue within the scope of BackEnd. I currently work as a Software Engineer at Avanade Brasil.
-
 ...
-
 Comecei minha carreira como desenvolvedor em meados de 2018, até então consegui continuar, e me especializar como FullStack, mas percebi que tinha que continuar no âmbito do BackEnd. Atualmente trabalho como Engenheiro de Software na Avanade Brasil.
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DaniloOPinheiro/)](https://github.com/DaniloOPinheiro/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-o-pinheiro-8127ab176/)](https://www.linkedin.com/in/danilo-o-pinheiro-8127ab176/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dan_opinheiro)](https://twitter.com/dan_opinheiro)
-
 ### Repositórios Evidentes:
-  
   * [GitHub - Educacional](https://github.com/DaniloOP1381521)<br>
   * [GitHub - Version 2](https://github.com/DaniloOPro)
-
-<!--
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 👯 Estou procurando colaborar...
 ### Meu [Portfólio](https://dop-s.github.io/)
