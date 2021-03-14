@@ -1,4 +1,4 @@
-![Screenshot_2021-03-08 (3) WhatsApp](https://user-images.githubusercontent.com/52793184/110406067-6256bf00-8060-11eb-87c4-f2b45eccf7bd.png)
+![Captura de tela 2021-03-13 214157](https://user-images.githubusercontent.com/52793184/111054029-df5eab80-8447-11eb-9dcc-061a9b8a3d19.png)
 
 <!--
 ![WhatsApp Image 2021-03-02 at 2 11 44 PM](https://user-images.githubusercontent.com/52793184/109911574-1800c700-7c89-11eb-9486-c7ed28ea497e.jpeg)
