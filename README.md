@@ -1,4 +1,6 @@
-![Captura de tela 2021-03-13 214157](https://user-images.githubusercontent.com/52793184/111054029-df5eab80-8447-11eb-9dcc-061a9b8a3d19.png)
+![ppt-workshop-DIO-3](https://user-images.githubusercontent.com/73234748/117546406-a7678500-b000-11eb-859a-5ef03e0e53d2.jpg)
+
+<!--![Captura de tela 2021-03-13 214157](https://user-images.githubusercontent.com/52793184/111054029-df5eab80-8447-11eb-9dcc-061a9b8a3d19.png)
 
 <!--
 ![WhatsApp Image 2021-03-02 at 2 11 44 PM](https://user-images.githubusercontent.com/52793184/109911574-1800c700-7c89-11eb-9486-c7ed28ea497e.jpeg)
