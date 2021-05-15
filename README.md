@@ -1,4 +1,4 @@
-![ppt-workshop-DIO-3](https://user-images.githubusercontent.com/73234748/118377790-df913980-b5a5-11eb-98d4-f5675c0c6042.jpg)
+![Slide3](https://user-images.githubusercontent.com/73234748/118378742-2f72ff00-b5ac-11eb-845e-6029b8d70a25.PNG)
 
 <!--![Captura de tela 2021-03-13 214157](https://user-images.githubusercontent.com/52793184/111054029-df5eab80-8447-11eb-9dcc-061a9b8a3d19.png)
 
