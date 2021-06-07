@@ -55,3 +55,21 @@ Comecei minha carreira como desenvolvedor em meados de 2018, até então consegu
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Meu [Portfólio](https://dop-s.github.io/)
+
+### Outros Repositósiros :
+  
+  * [GitHub - Educacional](https://github.com/DaniloOP1381521)<br>
+  * [GitHub - Option 2](https://github.com/DaniloOPinheiro)
+
+<hr>
+
+[![Danilo O. Pinheiro stats](https://github-readme-stats.vercel.app/api?username=DaniloOPinheiro&show_icons=true&theme=radical)](https://github.com/DaniloOPinheiro)
+[![Danilo O. Pinheiro Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloOPinheiro&layout=compact&theme=radical)](https://github.com/DaniloOPinheiro)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloOPinheiro&theme=blue-green)](https://github.com/DaniloOPinheiro/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=DaniloOPinheiro&theme=blue-green)](https://github.com/DaniloOPinheiro)
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=DaniloOPinheiro&row=1)](https://github.com/DaniloOPinheiro/github-profile-trophy)
+
+[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/DaniloOPinheiro/badges)
