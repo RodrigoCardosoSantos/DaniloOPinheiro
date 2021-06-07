@@ -1,4 +1,4 @@
-![Slide3](https://user-images.githubusercontent.com/73234748/118378742-2f72ff00-b5ac-11eb-845e-6029b8d70a25.PNG)
+![Slide3](https://user-images.githubusercontent.com/52793184/120951552-84271700-c71f-11eb-89cb-77681885e2c8.JPG)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-o-pinheiro-8127ab176/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/daniloop1381521)
