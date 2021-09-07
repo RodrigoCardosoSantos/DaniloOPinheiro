@@ -11,6 +11,8 @@
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/profile/09027812347261688269)
 [![Behance](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/danilopinheiro2)
 
+![Screenshot 2021-09-07 at 12-56-44 Danilo Pinheiro - Badges - Credly](https://user-images.githubusercontent.com/52793184/132375622-a954fee7-8229-4957-a890-51983112a948.png)
+
 <!--![Captura de tela 2021-03-13 214157](https://user-images.githubusercontent.com/52793184/111054029-df5eab80-8447-11eb-9dcc-061a9b8a3d19.png)
 
 <!--
