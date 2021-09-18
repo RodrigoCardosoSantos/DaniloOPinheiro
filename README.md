@@ -10,6 +10,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://daniloopro.medium.com/)
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/profile/09027812347261688269)
 [![Behance](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/danilopinheiro2)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/DaniloOP1381521)
 
 ![Screenshot 2021-09-07 at 12-56-44 Danilo Pinheiro - Badges - Credly](https://user-images.githubusercontent.com/52793184/132375622-a954fee7-8229-4957-a890-51983112a948.png)
 
